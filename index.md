@@ -22,7 +22,7 @@ Senior Java Developer with more than 7 years of experience.
 ## Experience
 
 ### 11/2022-NOW. Senior Java Developer @ JetBrains
-** Job Description ** Development of world-leading tools for engineers (IntelliJ IDEA, TeamCity).
+**Job Description** Development of world-leading tools for engineers (IntelliJ IDEA, TeamCity).
 
 ### 06/2021 - 05/2022. TeamLead Java Developer @ Google @ Grid Dynamics
 **Job Description.** Integration of new Google Cloud service with one of the most popular online shops in USA.
