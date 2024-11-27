@@ -4,10 +4,11 @@ title: Vladimir Shefer's CV
 ---
 
 # Vladimir Shefer
-Senior Java (Kotlin) Developer @ JetBrains.
+Senior Java Developer with more than 7 years of experience.
 
-- Telegram: [@vladimirshefer](https://t.me/vladimirshefer)
+- Email: [vladimir.shefer.work+github-cv@gmail.com](mailto:vladimir.shefer.work+github-cv@gmail.com)
 - Linkedin: [@vshefer](https://www.linkedin.com/in/vshefer)
+- Telegram: [@vladimirshefer](https://t.me/vladimirshefer)
 
 ## Skills
 - **Java**: Spring Framework, Java 8/11, Kotlin.
@@ -20,8 +21,10 @@ Senior Java (Kotlin) Developer @ JetBrains.
 
 ## Experience
 
+#### 11/2022-NOW. Senior Java Developer @ JetBrains
+** Job Description ** Development of world-leading tools for engineers (IntelliJ IDEA, TeamCity).
 
-### 06/2021 - NOW. TeamLead Java Developer @ Google @ Grid Dynamics
+#### 06/2021 - 05/2022. TeamLead Java Developer @ Google @ Grid Dynamics
 **Job Description.** Integration of new Google Cloud service with one of the most popular online shops in USA.
 
 **Responsibilities**
@@ -34,7 +37,7 @@ Senior Java (Kotlin) Developer @ JetBrains.
 
 **Tools.** Java 8/11, Spring Boot, Google cloud (DataFlow, GCS, PubSub), Teamcity
 
-### 12/2020 - 05/2021. Search Engineer @ Dubai Store @ Grid Dynamics
+#### 12/2020 - 05/2021. Search Engineer @ Dubai Store @ Grid Dynamics
 **Project description.** Online retailing service in UAE.
 
 **Job description.** Increase search relevancy.
@@ -48,7 +51,7 @@ Senior Java (Kotlin) Developer @ JetBrains.
 
 **Tools.** Java 8, Solr
 
-### 08/2019 - 12/2020. Senior Java Developer @ Touch Instinct, SPb
+#### 08/2019 - 12/2020. Senior Java Developer @ Touch Instinct
 **Projects.**
 - "Cifra" - online bookkeeping app for small business.
 - Core backend developer & architect.
@@ -61,28 +64,28 @@ Java / Kotlin / Spring coach for teammates.
 
 **Tools.** Kotlin, Spring Framework 5 (Boot, Web, WebFlux, Data), Project Reactor, Postgres, REST-API, SOAP, Teamcity, Ansible, Docker, Docker-compose.
 
-### 07/2018 - 08/2019 Java Developer @ Segmento, SPb
+#### 07/2018 - 08/2019 Java Developer @ Segmento
 **Project description.** Programmatic advertising platform. 
 
 **Job description.** Realtime bidding (RTB) platform development and support. 
 
 **Tools.** Java 8, Spring 4.3 (Boot, Web, Data), JAX-RS, MySQL, Elasticsearch, REST-API, Spark, NGINX, Spark.
 
-### 10/2017 - 07/2018 Junior Big Data Developer @ Barsum, SPb
+#### 10/2017 - 07/2018 Junior Big Data Developer @ Barsum
 **Project description.** Cloud services analytics and cloud resources monitoring.
 
 **Job description.** Data processing pipeline (ETL) implementation and performance tuning. DAO layer implementation.
 
 **Tools.** Scala, Spark, Kafka, HBase, Redis, Jenkins.
 
-### 01/2018 - 03/2018 Jav Intern @ EPAM, SPb
+#### 01/2018 - 03/2018 Jav Intern @ EPAM
 **Project description.** Test system for students skills growth system. 
 
 **Job description.** Algorithms and data structures refecence implementation in Java. Code review.
 
 **Tools.** Java 8, JSP, Postgres.
 
-### 07/2017 - 08/2017 Java Intern @ Emergn (Return On Intelligence), SPb
+#### 07/2017 - 08/2017 Java Intern @ Emergn (Return On Intelligence)
 **Project description.** Summer Java Internship.
 
 **Job description.** Bus schedule web application.
