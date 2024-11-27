@@ -61,13 +61,6 @@ body {
 	margin-left: 1em;
 }
 
-p {
-	position: relative;
-	left: 33%;
-	margin-bottom: 0.7em;
-	margin-right: 0;
-	width: 65%;
-}
 
 code {
 	font: normal normal;
@@ -77,69 +70,20 @@ code {
 	color: #aaa;
 }
 
-p code {
-	position: absolute;
-	left: -14%;
-}
-
-
-ul { 
-	position: relative;
-	left: 33%;
-	width: 65%;
-	margin-bottom: 1.5em;
-	margin-top: -0.5em;
-}
-
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
-
-li {
-	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
-	/*color: #777;*/
-}
-
-li ul {
-	position: relative;
-	left: 0;
-	width: 100%;
-	margin-top: 0.25em;
-}
-
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
-	width: 65%;
 }
 
 h1 {
-	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
-	position: relative;
-	left: 33%;
-}
-
-h1+p { 
-	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
 }
 
 h2 {
 	font-size: 1.1em;
 	color: #a00;
 	margin-top: 3em;
-	position: relative;
-	top: 1.4em;
-	text-align: right;
-	width: 20%;
 }
 
 h3 {
