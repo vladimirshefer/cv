@@ -11,11 +11,11 @@ Senior Java Developer with more than 7 years of experience.
 - Telegram: [@vladimirshefer](https://t.me/vladimirshefer)
 
 ## Skills
-- **Java**: Spring Framework, Java 8/11, Kotlin.
-- **Databases**: SQL (Postgres, MySQL), Hibernate, JDBC, Elasticsearch, Redis, HBase.
-- **WEB**: REST, HTML, CSS, Vue.js, JQuery, Bootstrap.
-- **Tools**: Gradle/Maven, Git, IDEA, Liquibase, Kibana, Charles, Docker, Docker-compose.
-- **DevOps**: Linux, Bash, Ansible, Nginx, TeamCity.
+- **Java**: Spring Framework, Java, Kotlin.
+- **Databases**: SQL, JDBC, Hibernate, Elasticsearch, Redis, HBase.
+- **WEB**: HTML, CSS, React, Vue.js, TailWind.
+- **Tools**: Gradle/Maven, Git, Liquibase, Kibana, Docker
+- **DevOps**: Linux, Bash, Nginx, TeamCity.
 - **Big Data**: Scala, Hadoop, Yarn, HDFS, Kafka, Spark, HBase.
 - **Cloud**: AWS (EC2, RDS, ELK), GCloud (Pub/Sub, CloudStorage, DafaFlow)
 
