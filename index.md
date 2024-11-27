@@ -4,11 +4,13 @@ title: Vladimir Shefer's CV
 ---
 
 # Vladimir Shefer
+
 Senior Java Developer with more than 7 years of experience.
 
 - Email: [vladimir.shefer.work+github-cv@gmail.com](mailto:vladimir.shefer.work+github-cv@gmail.com)
 - Linkedin: [@vshefer](https://www.linkedin.com/in/vshefer)
 - Telegram: [@vladimirshefer](https://t.me/vladimirshefer)
+- GitHub: [@vladimirshefer](https://github.com/vladimirshefer)
 
 ## Skills
 - **Java**: Spring Framework, Java, Kotlin.
