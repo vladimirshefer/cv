@@ -15,12 +15,11 @@ Proven expertise in designing and implementing scalable solutions for both estab
 
 ## Skills
 - **Java**: Spring Framework, Java, Kotlin.
-- **Databases**: SQL, JDBC, Hibernate, Elasticsearch, Redis, HBase.
+- **Databases**: SQL, JDBC, Hibernate, Elasticsearch, Redis.
 - **WEB**: HTML, CSS, React, Vue.js, TailWind.
-- **Tools**: Gradle/Maven, Git, Liquibase, Kibana, Docker
-- **DevOps**: Linux, Bash, Nginx, TeamCity.
-- **Big Data**: Scala, Hadoop, Yarn, HDFS, Kafka, Spark, HBase.
-- **Cloud**: AWS (EC2, RDS, ELK), GCloud (Pub/Sub, CloudStorage, DafaFlow)
+- **Tools**: Gradle/Maven, Git, Kibana, Docker, TeamCity, Nginx, Liquibase / FlyWay.
+- **DevOps**: Linux, Bash, SSH.
+- **Cloud**: AWS (EC2, RDS, ELK), GCloud (Pub/Sub, CloudStorage, DafaFlow).
 
 ## Experience
 
@@ -40,33 +39,34 @@ Proven expertise in designing and implementing scalable solutions for both estab
   - Acted as the sole backend developer, driving the project from preview phase to General Availability.
   - Designed and implemented REST APIs for core functionality, enabling efficient and user-friendly CI/CD workflows.
 
-### 06/2021 - 05/2022. Team Lead Java Developer @ Google @ Grid Dynamics
-**Job Description.** Integration of new Google Cloud service with one of the most popular online shops in USA.
+### 12/2020 - 05/2022. Lead Java Developer @ Grid Dynamics
+- **Google retail search:**
+  **Job Description.** Integration of new Google Cloud service with one of the most popular online shops in USA.
 
-**Responsibilities**
-- Collaborated with stakeholders to gather, clarify, and prioritize project requirements, aligning technical goals with business objectives.
-- Designed and developed robust microservices to seamlessly integrate Google Cloud services with the client’s e-commerce platform.
-- Led and managed a cross-functional team of 7 members (5 developers, 2 QA), ensuring high performance and effective collaboration.
-- Acted as the primary point of contact for customer communication, providing regular updates on progress, risks, and deliverables.
-- Distributed workloads effectively across the team, optimizing resource utilization and ensuring timely delivery of milestones.
-- Implemented and maintained CI/CD pipelines to streamline development processes and support continuous integration and deployment.
-- Conducted code reviews and provided mentorship to team members, fostering technical growth and adherence to best practices.
+  **Responsibilities**
+  - Led and managed a cross-functional team of 7 members (5 developers, 2 QA).
+  - Acted as the primary point of contact for customer communication, providing regular updates on progress, risks, and deliverables.
+  - Collaborated with stakeholders to gather, clarify, and prioritize project requirements, aligning technical goals with business objectives.
+  - Designed and developed microservices to seamlessly integrate Google Cloud services with the client’s e-commerce platform.
+  - Implemented and maintained CI/CD pipelines to streamline development processes for the team.
+  - Conducted code reviews and provided mentorship to team members.
 
-**Tools.** Java 8/11, Spring Boot, Google cloud (DataFlow, GCS, PubSub), Teamcity
+  **Tools.** Java 8/11, Spring Boot, Google cloud (DataFlow, GCS, PubSub, Retail Search), Teamcity
 
 ### 12/2020 - 05/2021. Search Engineer @ Dubai Store @ Grid Dynamics
-**Project description.** Online retailing service in UAE.
+- **Dubai Store:**
+  **Project description.** Online retailing service in UAE.
 
-**Job description.** Increase search relevancy.
+  **Job description.** Increase search relevancy.
 
-**Responsibilities**
-- Collaborated with stakeholders to gather and refine product requirements, ensuring alignment with business objectives.
-- Designed and developed a custom plugin for the SOLR search engine, tailored to meet specific project needs.
-- Improved search relevancy for head and tail queries, leading to a measurable increase in user satisfaction.
-- Provided technical support to address stakeholder queries and resolve search-related issues effectively.
-- Deployed and maintained the search plugin on production servers, ensuring seamless integration and system reliability.
+  **Responsibilities**
+  - Collaborated with stakeholders to gather and refine product requirements.
+  - Designed and developed a custom plugin for the SOLR search engine, tailored to meet specific project needs.
+  - Improved search relevancy for head and tail queries, leading to a measurable increase in user satisfaction.
+  - Provided technical support to address stakeholder queries and resolve search-related issues effectively.
+  - Deployed and maintained the search plugin on servers.
 
-**Tools.** Java 8, Solr
+  **Tools.** Java 8, Solr, Lucene
 
 ### 08/2019 - 12/2020. Senior Java Developer @ Touch Instinct
 **Projects.**
@@ -80,24 +80,17 @@ Java / Kotlin / Spring coach for teammates.
 
 **Tools.** Kotlin, Spring Framework 5 (Boot, Web, WebFlux, Data), Project Reactor, Postgres, REST-API, SOAP, Teamcity, Ansible, Docker, Docker-compose.
 
-### 07/2018 - 08/2019 Java Developer @ Segmento
-**Project description.** Programmatic advertising platform. 
-**Job description.** Realtime bidding (RTB) platform development and support. 
-
-**Tools.** Java 8, Spring 4.3 (Boot, Web, Data), JAX-RS, MySQL, Elasticsearch, REST-API, Spark, NGINX, Spark.
-
-### 10/2017 - 07/2018 Junior Big Data Developer @ Barsum
-**Project description.** Cloud services analytics and cloud resources monitoring.
-
-**Job description.** Data processing pipeline (ETL) implementation and performance tuning. DAO layer implementation.
-
-**Tools.** Scala, Spark, Kafka, HBase, Redis, Jenkins.
-
 ### Early Experience  
+- 07/2018 - 08/2019: Java Developer @ Segmento (Programmatic advertising platform)  
+  - Developed and supported a realtime bidding (RTB) platform.  
+  - Java 8, Spring 4.3 (Boot, Web, Data), JAX-RS, MySQL, Elasticsearch, REST-API, Spark, NGINX, Spark.  
+- 10/2017 - 07/2018: Junior Big Data Developer @ Barsum (Cloud services analytics and monitoring)  
+  - Implemented and optimized data processing pipelines (ETL) and developed the DAO layer.  
+  - Scala, Spark, Kafka, HBase, Redis, Jenkins.  
 - **01/2018 - 03/2018:** Java Intern @ EPAM (Student skills growth system).  
-  - Developed internal tool for coding interviews using Java 8.
-- **07/2017 - 08/2017:** Java Intern @ Emergn.  
-  - Built a bus schedule web application using Java and JS. 
+  - Developed internal tool for coding interviews.
+- **07/2017 - 08/2017:** Java Intern @ Emergn (Summer internship).  
+  - Built a bus schedule web application using Java and JS.
 
 ## Education
 - 2014-2020 Master's degree in Computer Security - Saint-Petersburg State Electrotechnical University (LETI)
@@ -105,6 +98,11 @@ Java / Kotlin / Spring coach for teammates.
 ## Languages
 - English - professional
 - German - basic
+
+
+[Source](https://github.com/vladimirshefer/cv/master/index.md)
+
+<input type="button" value="Print this page" onClick="window.print()">
 
 
 <!-- ### Footer
