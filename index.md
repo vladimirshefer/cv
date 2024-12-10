@@ -59,13 +59,10 @@ Proven expertise in designing and implementing scalable solutions for both estab
 
 ### 08/2019 - 12/2020. Senior Java Developer @ Touch Instinct
   - **Projects.**
-    - "Cifra" - online bookkeeping app for small business - Core backend developer & architect.
-    - "Reporting" - Employees status and performance review application for project managers. Backend developer. (Spring WebFlux; Amazon S3).
-  - "Spring Logging" - Declarative logging framework for Spring
- - Designing and implementing backend & middleware. 
-Integration with external services integration architect.
-Java / Kotlin / Spring coach for teammates.
- - **Tools.** Kotlin, Spring Framework 5 (Boot, Web, WebFlux, Data), Project Reactor, Postgres, REST-API, SOAP, Teamcity, Ansible, Docker, Docker-compose.
+    - "Cifra" - online bookkeeping app for business.
+    - "Reporting" - Employees status and performance review application for project managers.
+    - "Spring Logging" - Declarative logging framework for Spring.
+  - **Tools.** Kotlin, Spring Framework 5 (Boot, Web, WebFlux, Data), Project Reactor, Postgres, REST-API, SOAP, Teamcity, Ansible, Docker, Docker-compose.
 
 ### Early Experience  
 - **07/2018 - 08/2019**: Java Developer @ Segmento (Programmatic advertising platform)  
