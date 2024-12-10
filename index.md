@@ -41,6 +41,7 @@ Proven expertise in designing and implementing scalable solutions for both estab
 
 ### 12/2020 - 05/2022. Lead Java Developer @ Grid Dynamics
 - **Google retail search:**
+
   **Job Description.** Integration of new Google Cloud service with one of the most popular online shops in USA.
 
   **Responsibilities**
@@ -54,6 +55,7 @@ Proven expertise in designing and implementing scalable solutions for both estab
   **Tools.** Java 8/11, Spring Boot, Google cloud (DataFlow, GCS, PubSub, Retail Search), Teamcity
 
 - **Dubai Store:**
+
   **Project description.** Online retailing service in UAE.
 
   **Job description.** Increase search relevancy.
@@ -80,16 +82,12 @@ Java / Kotlin / Spring coach for teammates.
 **Tools.** Kotlin, Spring Framework 5 (Boot, Web, WebFlux, Data), Project Reactor, Postgres, REST-API, SOAP, Teamcity, Ansible, Docker, Docker-compose.
 
 ### Early Experience  
-- 07/2018 - 08/2019: Java Developer @ Segmento (Programmatic advertising platform)  
+- **07/2018 - 08/2019**: Java Developer @ Segmento (Programmatic advertising platform)  
   - Developed and supported a realtime bidding (RTB) platform.  
   - Java 8, Spring 4.3 (Boot, Web, Data), JAX-RS, MySQL, Elasticsearch, REST-API, Spark, NGINX, Spark.  
-- 10/2017 - 07/2018: Junior Big Data Developer @ Barsum (Cloud services analytics and monitoring)  
+- **10/2017 - 07/2018**: Junior Big Data Developer @ Barsum (Cloud services analytics and monitoring)  
   - Implemented and optimized data processing pipelines (ETL) and developed the DAO layer.  
   - Scala, Spark, Kafka, HBase, Redis, Jenkins.  
-- **01/2018 - 03/2018:** Java Intern @ EPAM (Student skills growth system).  
-  - Developed internal tool for coding interviews.
-- **07/2017 - 08/2017:** Java Intern @ Emergn (Summer internship).  
-  - Built a bus schedule web application using Java and JS.
 
 ## Education
 - 2014-2020 Master's degree in Computer Security - Saint-Petersburg State Electrotechnical University (LETI)
