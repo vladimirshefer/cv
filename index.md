@@ -40,34 +40,23 @@ Proven expertise in designing and implementing scalable solutions for both estab
   - Designed and implemented REST APIs for core functionality, enabling efficient and user-friendly CI/CD workflows.
 
 ### 12/2020 - 05/2022. Lead Java Developer @ Grid Dynamics
-- **Google retail search:**
 
-  **Job Description.** Integration of new Google Cloud service with one of the most popular online shops in USA.
-
-  **Responsibilities**
+- **Google retail search:** - Integration of new Google Cloud service with one of the most popular online shops in USA.
   - Led and managed a cross-functional team of 7 members (5 developers, 2 QA).
   - Acted as the primary point of contact for customer communication, providing regular updates on progress, risks, and deliverables.
   - Collaborated with stakeholders to gather, clarify, and prioritize project requirements, aligning technical goals with business objectives.
   - Designed and developed microservices to seamlessly integrate Google Cloud services with the client’s e-commerce platform.
   - Implemented and maintained CI/CD pipelines to streamline development processes for the team.
   - Conducted code reviews and provided mentorship to team members.
+  - **Tools.** Java 8/11, Spring Boot, Google cloud (DataFlow, GCS, PubSub, Retail Search), Teamcity
 
-  **Tools.** Java 8/11, Spring Boot, Google cloud (DataFlow, GCS, PubSub, Retail Search), Teamcity
-
-- **Dubai Store:**
-
-  **Project description.** Online retailing service in UAE.
-
-  **Job description.** Increase search relevancy.
-
-  **Responsibilities**
+- **Dubai Store:** - Online store in UAE.
   - Collaborated with stakeholders to gather and refine product requirements.
   - Designed and developed a custom plugin for the SOLR search engine, tailored to meet specific project needs.
   - Improved search relevancy for head and tail queries, leading to a measurable increase in user satisfaction.
   - Provided technical support to address stakeholder queries and resolve search-related issues effectively.
   - Deployed and maintained the search plugin on servers.
-
-  **Tools.** Java 8, Solr, Lucene
+  - **Tools.** Java 8, Solr, Lucene
 
 ### 08/2019 - 12/2020. Senior Java Developer @ Touch Instinct
 **Projects.**
