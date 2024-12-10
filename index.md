@@ -5,8 +5,8 @@ title: Vladimir Shefer's CV
 
 # Vladimir Shefer
 
-## Senior Java Developer with over 7 years of diverse experience, based in Berlin, Germany.
-Proven expertise in designing and implementing scalable solutions for both established international corporations and dynamic startups. Experienced in leading cross-functional teams, mentoring developers, and delivering high-quality software products. Adept at bridging technical and business requirements to drive impactful results. Passionate about problem-solving, innovation, and fostering collaborative environments.
+## Senior Java Developer with over 7 years of experience, based in Berlin, Germany.
+Proven expertise in designing and implementing scalable solutions for both established international corporations and dynamic startups. Experienced in leading cross-functional teams, mentoring developers, and delivering high-quality software products. Passionate about problem-solving, innovation, and fostering collaborative environments.
 
 - Email: [vladimir.shefer.work+github-cv@gmail.com](mailto:vladimir.shefer.work+github-cv@gmail.com)
 - Linkedin: [@vshefer](https://www.linkedin.com/in/vshefer)
@@ -24,14 +24,13 @@ Proven expertise in designing and implementing scalable solutions for both estab
 ## Experience
 
 ### 11/2022-NOW. Senior Java Developer @ JetBrains
-**Project Description:** Development of world-leading tools for engineers, including IntelliJ IDEA, TeamCity and TeamCity Pipelines.  
+  Development of world-leading tools for engineers
 
 - **IntelliJ IDEA, Platform UI Team:**  
   - Contributed to the **New Terminal** project, aimed at creating a user-friendly alternative to the classic terminal, tailored for novice developers.  
   - Improved performance of critical features, including a significant speed-up of intelligent command autocompletion by conducting performance profiling, running experiments, and implementing an optimized solution.  
   - Delivered multiple usability enhancements, reducing waiting times and improving responsiveness for end-users.  
-  - Focused on understanding stakeholder priorities and accelerated project delivery by proposing pragmatic solutions, balancing quality and time-to-market.  
-  - Collaborated with team members on innovative approaches to elevate the overall user experience of the New Terminal.
+  - Focused on understanding priorities and accelerated project delivery by proposing pragmatic solutions, balancing quality and time-to-market.  
 - **TeamCity UI Team:**
   - Developed REST APIs to support new features and improve integration capabilities.  
   - Enhanced API performance and reliability to meet user demands.
