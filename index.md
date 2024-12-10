@@ -53,7 +53,6 @@ Proven expertise in designing and implementing scalable solutions for both estab
 
   **Tools.** Java 8/11, Spring Boot, Google cloud (DataFlow, GCS, PubSub, Retail Search), Teamcity
 
-### 12/2020 - 05/2021. Search Engineer @ Dubai Store @ Grid Dynamics
 - **Dubai Store:**
   **Project description.** Online retailing service in UAE.
 
