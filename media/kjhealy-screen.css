@@ -37,7 +37,7 @@ ol, ul {
 }
 
 /* Nested lists */
-li>ul {
+ul {
 	margin-left: 1em;s
 }
 
