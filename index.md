@@ -80,7 +80,7 @@ Proven expertise in designing and implementing scalable solutions for both estab
 - German - basic
 
 
-[Source](https://github.com/vladimirshefer/cv/master/index.md)
+[Source](https://github.com/vladimirshefer/cv/blob/master/index.md)
 
 <input type="button" value="Print this page" onClick="window.print()">
 
